@@ -641,10 +641,14 @@ body {
   .header__logo-box {
     position: absolute;
     top: 4rem;
-    left: 4.5rem; }
+    left: 4.5rem;
+    /* background-image:  linear-gradient(to right bottom, rgba(30, 115, 172, 0.7), rgba(142, 57, 153, 0.6)); */
+  }
+
   .header__logo {
     height: 6rem;
-    transition: all .3s; }
+    transition: all .3s;
+  }
     .header__logo:hover {
       transform: scale(1.2); }
   .header__text-box {
