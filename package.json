@@ -1,7 +1,8 @@
+
 {
-  "name": "aaron_pietsch",
+  "name": "vedanth baliga",
   "version": "1.0.0",
-  "description": "Aaron Pietsch",
+  "description": "Vedanth Baliga",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
@@ -11,4 +12,5 @@
   "devDependencies": {
     "node-sass": "^4.7.2"
   }
+
 }
